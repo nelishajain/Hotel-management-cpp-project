@@ -1,6 +1,6 @@
 #include<fstream.h>
 #include<conio.h>
-#include<stdio.h>
+#include<iostream.h>
 #include<string.h>
 
 class hotel
